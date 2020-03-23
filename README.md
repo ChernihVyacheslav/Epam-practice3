@@ -1,5 +1,5 @@
 # Epam-practice3
-Tasks from the 2st practice class of EPAM java course at spring 2019.
+Tasks from the third practice class of EPAM java course at spring 2019.
 
 Практическое занятие №3 (v1)
 _______________________
